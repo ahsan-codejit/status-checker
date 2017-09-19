@@ -13,7 +13,7 @@ clone project and enter into the directory
 npm install
 settings=config NODE_ENV=dev node app.js
 ```
-`DEBUG=checker:* node .` will show console log messages.
+`DEBUG=checker:* node .` will run the checker and show checker console log messages.
 
 ### Command to test app
 ``` npm test ```
@@ -25,4 +25,4 @@ src/app.js will call src/services/builder to build all required helper services 
 Get functionalites and behaviours of services, checkers and others in test files.
 
 ## Details work flow and documentation
-.......coming.........
+.......................
