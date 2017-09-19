@@ -1,0 +1,22 @@
+{
+	"node": true,
+	"bitwise": true,
+	"boss": false,
+	"evil": false,
+	"curly": true,
+	"eqeqeq": true,
+	"latedef": true,
+	"laxbreak": false,
+	"laxcomma": false,
+	"loopfunc": false,
+	"noarg": true,
+	"noempty": true,
+	"nonbsp": true,
+	"notypeof": true,
+	"shadow": false,
+	"unused": "vars",
+	"undef": true,
+	"withstmt": false,
+	"esversion": 6,
+	"mocha": true
+}

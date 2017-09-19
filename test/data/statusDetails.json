@@ -1,0 +1,196 @@
+{
+    "id": "NVDS265-377231",
+    "groupId": null,
+    "status": "CLEANSED",
+    "originalDetails": {
+        "name": "creatrix ideas",
+        "displayName": "creatrix ideas",
+        "brand": "creatrix ideas",
+        "logoUrl": null,
+        "description": "Erstellung und Gestaltung von Technischen Dokumentationen (Betriebsanleitungen, Ersatzteilkataloge, Schulungsmaterial), Corporate Design, Visitenkarten und Flyer, handgemalte Kunst nach Kundenwunsch in Kohle und Pastell.",
+        "keywords": [],
+        "language": "de",
+        "primaryCategory": null,
+        "additionalCategories": [],
+        "contacts": {
+            "phoneNumber": "01715217879",
+            "faxNumber": null,
+            "emailAddress": "info@creatrix-ideas.de",
+            "websiteUrl": "http://www.creatrix-ideas.de",
+            "brandUrl": null,
+            "socialMediaUrls": []
+        },
+        "address": {
+            "country": "DE",
+            "state": null,
+            "city": "Strausberg",
+            "postalCode": "15344",
+            "street": "Debnoer Straße",
+            "houseNumber": "10",
+            "directions": null
+        },
+        "position": {
+            "latitude": 52.554039,
+            "longitude": 13.865
+        },
+        "openingHours": {
+            "SUNDAY": [],
+            "MONDAY": [],
+            "FRIDAY": [],
+            "SATURDAY": [],
+            "THURSDAY": [],
+            "TUESDAY": [],
+            "WEDNESDAY": []
+        },
+        "extraOpeningHours": {},
+        "images": [],
+        "amenities": [],
+        "fuelTypes": [],
+        "paymentMethods": []
+    },
+    "cleansedDetails": {
+        "name": "Creatrix ideas",
+        "displayName": "Creatrix ideas",
+        "brand": "Creatrix ideas",
+        "logoUrl": null,
+        "description": "Erstellung und Gestaltung von Technischen Dokumentationen (Betriebsanleitungen, Ersatzteilkataloge, Schulungsmaterial), Corporate Design, Visitenkarten und Flyer, handgemalte Kunst nach Kundenwunsch in Kohle und Pastell.",
+        "keywords": [],
+        "language": "de",
+        "primaryCategory": "graphic_designer",
+        "additionalCategories": [],
+        "contacts": {
+            "phoneNumber": "+491715217879",
+            "faxNumber": "",
+            "emailAddress": "info@creatrix-ideas.de",
+            "websiteUrl": "http://www.creatrix-ideas.de",
+            "brandUrl": null,
+            "socialMediaUrls": []
+        },
+        "address": {
+            "country": "DE",
+            "state": null,
+            "city": "Strausberg",
+            "postalCode": "15344",
+            "street": "Debnoer Straße",
+            "houseNumber": "10",
+            "directions": null
+        },
+        "position": {
+            "latitude": 52.55382536,
+            "longitude": 13.86514216
+        },
+        "openingHours": {
+            "SUNDAY": [],
+            "MONDAY": [],
+            "FRIDAY": [],
+            "SATURDAY": [],
+            "THURSDAY": [],
+            "TUESDAY": [],
+            "WEDNESDAY": []
+        },
+        "extraOpeningHours": {},
+        "images": [],
+        "amenities": [],
+        "fuelTypes": [],
+        "paymentMethods": []
+    },
+    "publicationChannels": [
+        "APPLE",
+        "HERE",
+        "TOMTOM",
+        "NAVMII",
+        "FOURSQUARE",
+        "BING"
+    ],
+    "channelStatuses": {
+        "HERE": {
+            "submissionDetails": {
+                "status": "SUBMITTED",
+                "firstSubmissionDate": "2017-04-01T00:00:00",
+                "lastSubmissionDate": null
+            },
+            "publicationDetails": {
+                "status": "NO_MATCH",
+                "fieldsStatus": {},
+                "publishedSinceDate": null,
+                "lastCrawlDate": null
+            },
+            "deepLink": null
+        },
+        "APPLE": {
+            "submissionDetails": {
+                "status": "SUBMITTED",
+                "firstSubmissionDate": "2017-04-15T00:00:00",
+                "lastSubmissionDate": null
+            },
+            "publicationDetails": {
+                "status": "PUBLISHED",
+                "fieldsStatus": {},
+                "publishedSinceDate": "2017-04-24T00:00:00",
+                "lastCrawlDate": "2017-06-28T00:00:00"
+            },
+            "deepLink": "http://maps.apple.com/?q=Creatrix ideas&sll=52.55382536,13.86514216&z=10"
+        },
+        "BING": {
+            "submissionDetails": {
+                "status": "SUBMITTED",
+                "firstSubmissionDate": "2017-03-19T00:00:00",
+                "lastSubmissionDate": "2017-03-19T09:23:09"
+            },
+            "publicationDetails": {
+                "status": "PUBLISHED",
+                "fieldsStatus": {},
+                "publishedSinceDate": "2017-06-10T00:00:00",
+                "lastCrawlDate": "2017-07-15T00:00:00"
+            },
+            "deepLink": "https://www.bing.com/maps?ss=ypid.YN6740x11431567724602633328"
+        },
+        "NAVMII": {
+            "submissionDetails": {
+                "status": "SUBMITTED",
+                "firstSubmissionDate": "2017-03-19T00:00:00",
+                "lastSubmissionDate": "2017-03-19T09:21:52"
+            },
+            "publicationDetails": {
+                "status": "PUBLISHED",
+                "fieldsStatus": {},
+                "publishedSinceDate": "2017-03-19T00:00:00",
+                "lastCrawlDate": "2017-08-01T00:00:00"
+            },
+            "deepLink": "http://livepoi.navmii.com/p/view/d4b799d7-798f-42ac-b7cf-cf1b7370b648"
+        },
+        "FOURSQUARE": {
+            "submissionDetails": {
+                "status": "SUBMITTED",
+                "firstSubmissionDate": "2017-03-15T00:00:00",
+                "lastSubmissionDate": null
+            },
+            "publicationDetails": {
+                "status": "PUBLISHED",
+                "fieldsStatus": {},
+                "publishedSinceDate": "2017-03-17T00:00:00",
+                "lastCrawlDate": "2017-05-14T00:00:00"
+            },
+            "deepLink": "https://foursquare.com/v/foursquare-hq/58c94965409f5624dbe47df9"
+        },
+        "TOMTOM": {
+            "submissionDetails": {
+                "status": "SUBMITTED",
+                "firstSubmissionDate": "2017-04-01T00:00:00",
+                "lastSubmissionDate": null
+            },
+            "publicationDetails": {
+                "status": "NO_MATCH",
+                "fieldsStatus": {},
+                "publishedSinceDate": null,
+                "lastCrawlDate": null
+            },
+            "deepLink": null
+        }
+    },
+    "inactivationDate": null,
+    "firstCleanseDate": "2017-03-15T00:00:00",
+    "lastCleanseDate": "2017-03-19T00:00:00",
+    "created": "2017-03-15T11:34:55",
+    "updated": "2017-08-06T02:59:45"
+}

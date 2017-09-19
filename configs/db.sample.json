@@ -1,0 +1,26 @@
+{
+	"dev": {
+		"host": "#",
+		"port": "#",
+		"user": "#",
+		"password": "#",
+		"name": "#",
+		"dialect": "#"
+	},
+	"prod":{
+		"host": "#",
+		"port": "#",
+		"user": "#",
+		"password": "#",
+		"name": "#",
+		"dialect": "#"
+	},
+	"test": {
+		"host": "#",
+		"port": "#",
+		"user": "#",
+		"password": "#",
+		"name": "#",
+		"dialect": "#"
+	}
+}

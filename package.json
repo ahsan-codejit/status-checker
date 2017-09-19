@@ -1,0 +1,24 @@
+{
+  "name": "status-checker",
+  "version": "1.0.0",
+  "description": "It will check details by id following id list in synchronised way and will also store statuses into respective database",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Md. Ahsan Habib <ahhasan.1325@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.4.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "sequelize": "^4.8.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "debug": "^3.0.1",
+    "mocha": "^3.5.0",
+    "sinon": "^3.2.1",
+    "sinon-chai": "^2.13.0"
+  }
+}
